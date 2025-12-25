@@ -1,0 +1,16 @@
+set={1,2,3,4,"python"}
+print(set)
+print(type(set))
+set1={1,2,3,5,4,3,2,1,6}
+set2={4,5,6,}
+print(set1.union(set2))
+print(set1.intersection(set2))
+print(set1.difference(set2))
+print(set1.issuperset(set2))
+print(set2.issubset(set2))
+set.add(123)
+print(set)
+set.pop()
+print(set)
+set.remove("python")
+print(set)
