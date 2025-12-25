@@ -1,0 +1,12 @@
+a=1
+print(a)
+_123="python"
+print(_123)
+abc=123
+print(abc)
+c=v=x=233
+print(c,v,x)
+a,b,c=1,2,3
+print(a)
+print(b)
+print(c)
