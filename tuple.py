@@ -1,0 +1,18 @@
+g=(1,2,3,4,5,6)
+print(g)
+print(type(g))
+print(sum(g))
+print(min(g))
+print(max(g))
+print(len(g))
+print(1 in g)
+print(10 in g)
+for i in g:
+    print(i)
+t1=(1,2,3)
+t2=(4,5,6)
+print(t1+t2)
+print(t1*3)
+print(g[1:6:3])
+print(g.index(6))
+
